@@ -4,6 +4,7 @@
 
 ![Screenshot 2024-02-16 214603](https://github.com/kaaviya-s/ReactFirebaseAuth/assets/83899413/d9dac473-6661-4013-84a3-e42a09e5210f)
 
+![Screenshot 2024-02-16 215037](https://github.com/kaaviya-s/ReactFirebaseAuth/assets/83899413/0f3a79c7-a5be-471b-9c50-9b05874bedc6)
 
 # Getting Started with Create React App
 
