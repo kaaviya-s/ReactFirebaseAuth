@@ -1,3 +1,6 @@
+![Screenshot 2024-02-16 213755](https://github.com/kaaviya-s/ReactFirebaseAuth/assets/83899413/6c32f5b7-fe33-4b80-a489-afe5da9af11b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
